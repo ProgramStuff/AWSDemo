@@ -5,5 +5,5 @@
   "dependencies": {},
   "scripts": {
     "start": "node app.js"
-  } 
+  }
 }
